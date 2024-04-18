@@ -1,6 +1,6 @@
 # Technical Report: Building a CRUD API with Ruby on Rails and Stimulus
 
-![](./)
+![](./SpaStimulus.gif)
 
 ## Introduction:
 This technical report outlines the development of a CRUD (Create, Read, Update, Delete) API project using Ruby on Rails for the backend and Stimulus for the frontend. The project aims to provide a seamless user experience for managing student records.
