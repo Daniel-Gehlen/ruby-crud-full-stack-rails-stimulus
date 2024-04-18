@@ -32,7 +32,7 @@ This technical report outlines the development of a CRUD (Create, Read, Update, 
 
 ### HTML Views:
 - HTML views use Stimulus data attributes to bind JavaScript behavior to HTML elements.
-- Forms are updated to reflect attribute name changes, such as firstName and lastName.
+- Forms are updated to reflect attribute name changes, such as name and email.
 
 ## Challenges and Solutions:
 - Attribute Naming: Updating attribute names from Portuguese to English required changes in both the model and the frontend.
