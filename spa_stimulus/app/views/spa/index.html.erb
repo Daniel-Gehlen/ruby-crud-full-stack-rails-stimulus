@@ -1,0 +1,12 @@
+<!-- app/views/pages/index.html.erb -->
+<h1>API project with Stimulus</h1>
+
+<hr>
+
+<div data-controller="students">
+  <div data-students-target="output">
+    <!-- Lista de alunos será renderizada aqui -->
+  </div>
+
+  <button data-action="click->students#fetchStudents" class="btn btn-primary">Fetch Students</button>
+</div>
